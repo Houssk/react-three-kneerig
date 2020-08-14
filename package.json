@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
-    "three": "^0.79.0",
+    "three": "^0.118.3",
     "react-three-renderer": "^2.3.1",
     "three.meshline": "^1.0.0"
   },
